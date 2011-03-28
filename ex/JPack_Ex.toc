@@ -1,0 +1,8 @@
+## Interface: 30100
+## Title: JPack Ex
+## Notes: A button on you bag frame!
+## Notes-zhCN: 为各种背包整合及系统背包添加JPack整理按键。
+## Dependencies: JPack
+
+localization.lua
+JPack_Ex.lua

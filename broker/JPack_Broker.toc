@@ -1,0 +1,10 @@
+## Interface: 30100
+## Title: JPack Broker
+## Notes: Data Broker support for jpack!
+## Dependencies: JPack
+
+LibStub.lua
+CallbackHandler-1.0.lua
+LibDataBroker-1.1.lua
+
+core.lua
