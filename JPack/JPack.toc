@@ -1,0 +1,18 @@
+﻿## Interface: 20400
+
+## Title: JPack
+## Notes: Jason auto packup
+## Author: Jason Green
+
+## Title-zhCN: |CFFFF8000辅助|R背包整理
+## X-Repple: 辅助
+## Author-zhCN: 桂健雄
+
+## SavedVariables: JPack
+
+## Version: 0.3.0
+## Email: guileen@gmail.com
+
+i18n.lua
+JLib.lua
+JPack.lua
